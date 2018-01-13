@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:hover {
+  color: #000000;
+  text-decoration:underline 
+  		}
+a.menu:link {color: #FFFFFF;
+ text-decoration: none;
+  }
+a.menu:visited {
+	color: #FFFFFF; 
+	text-decoration: none; 
+	}
+a.menu:hover {
+	color: #CCCCCC;
+ 	text-decoration: underline 
+ }
+a.menu:active {color: blue; } 
+#adBlock{
+	height:500px;
+	width:250px;
+	border: 2px solid #ccc;
+	margin-top:1em;
+	padding:1em;
+	text-align:center;
+	}
+#contactblock{
+	width:250px;
+	margin-top:6em;
+	font-weight:bold;
+	}
+body {  
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10pt; 
+	}
+.firstletter {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14pt; 
+	letter-spacing: normal; 
+	height: 2px; 
+	width: 2px; 
+	border-top-width: medium; 
+	border-right-width: medium; 
+	border-bottom-width: medium; 
+	border-left-width: medium
+	}
+	
+.formtext {  
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin:0px 40px
+	}
+.footer {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9pt; 
+	font-style: normal; 
+	font-weight: bold; 
+	font-variant: normal; 
+	color: #999900; 
+	border-top-width: thin; 
+	border-right-width: thin; 
+	border-bottom-width: thin; 
+	border-left-width: thin
+	}
+
+.head{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#AFCE3A;
+	font-weight:bold;
+	margin:50px 10px 0px;
+	list-style-type:circle
+}
+.menuitems{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#999999;
+	margin:0px 10px 8px;
+	font-weight:bold;
+	text-decoration:none
+}
+
+.moviereviewimage{
+float:right;
+border:thick;
+border-color:#999999
+}
+.moviereviewtitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: bold; color: #990000; text-align: center}
+.moviereview {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11pt; 
+	margin:0px 40px;
+}
+.moviereveiwcredits {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10pt; 
+	font-style: italic; 
+	font-weight: bold; 
+	color: #FFFF00
+	}
+
+.header2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+font-weight:bold;
+color:#ff8400;
+margin:40px 40px 5px;
+}
+
+.normaltext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+margin:0px 40px
+}
+
+.normaltextform{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+hr {
+  border: 0;
+  width: 80%;
+  color:#CCCCCC
+}
+
+.ScrollBox{
+border:#0000ff 0px solid; 
+height:350px; 
+padding:0px; 
+overflow: auto; 
+width:640px;
+}
+
+td	{
+	vertical-align:top;
+	}
+.title {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14pt; 
+	font-weight: bold; color: #990000; 
+	text-align: center
+	}
+
+.upperRightMenu{
+text-align:right;
+margin: 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FFFFFF
+}
